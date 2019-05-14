@@ -1,2 +1,2 @@
 # LIS
-Library Information System
+Library Information System with Client-Server Model
